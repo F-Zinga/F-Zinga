@@ -26,6 +26,6 @@
 
 ---
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=F-Zinga&theme=dark&background=000000)](https://git.io/streak-stats&count_private=true)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=F-Zinga&theme=dark&background=000000&count_private=true)](https://git.io/streak-stats&count_private=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F-Zinga&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F-Zinga&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
