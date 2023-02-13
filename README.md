@@ -1,7 +1,7 @@
 ---
 ### :man_technologist: About Me :
 
-- Artificial Intelligence and Data Mining Student
+- Artificial Intelligence and Data Engineering Student
 
 ---
 
